@@ -24,3 +24,7 @@ Cada tópico seguirá a seguinte estrutura:
 ## Acesso rápido
 
 - [Intro](1.intro.md)
+
+##### Fundamentos:
+
+- []()
